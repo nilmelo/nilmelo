@@ -1,12 +1,11 @@
 👋 Oh, hi there! 
 -
-I’m Nilson - a junior full stack developer working on Innovaro(Brazil), i'm a huge nerd/geek and aspiring pianist.
-I love everything tech, and am specialized in Angular and Node.
+I’m Nilson - a full stack developer working on Federal University of Ceara(Brazil), i'm a huge nerd/geek and aspiring pianist.
+I love everything tech, and am specialized in Spring(Java/Kotlin) and React.
 - I’m currently:
 - 
-    🌱 learning artificial intelligence. 
-    🌱 studying Software Architecture in college (Postgraduate degree)
-    🌱 doing a another degree, bachelor's in Software Engineering
+    🌱 learning artificial intelligence 
+    🌱 studying Software Architecture
     
 My values
 -
@@ -19,8 +18,8 @@ How I work
 
 Things I work with
 -
-• Node.js, JavaScript, Typescript (Express, Typeorm, JSDoc)
-• Angular, RxJS, NgRx, AG Grid
+• JavaEE,Kotlin, JavaScript, Typescript
+• React, Spring
 • Docker, Kubernets, Firebase
 • PostgresSQL, MongoDb, MySQL
 • Git, UML, Design Pattern
